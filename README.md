@@ -44,4 +44,6 @@ AutoGenMCQ follows a modular architecture designed to ensure scalability, perfor
 ### Conclusion
 AutoGenMCQ is a valuable tool for educators, content creators, and anyone involved in educational content creation and assessment. By automating the process of generating multiple-choice questions from textual data, the tool enhances efficiency and productivity. With its user-friendly interface, customization options, and scalability, AutoGenMCQ stands as a powerful solution for enhancing educational content creation practices.
 
-#Happy Learning!
+**Note:** As this is my client's project, So I can't add here
+
+# Happy Learning!
